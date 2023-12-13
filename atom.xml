@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Bovin's Blog</title>
   
   
   <link href="http://bovin-lee.github.io/atom.xml" rel="self"/>
@@ -10,11 +10,11 @@
   <id>http://bovin-lee.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Bovin Lee</name>
     
   </author>
   
-  <generator uri="https://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Bovin's Blog</generator>
   
   <entry>
     <title>Linux命令</title>
